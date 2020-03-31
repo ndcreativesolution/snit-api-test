@@ -1,0 +1,195 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "SELECT 4 records",
+  "data": [
+    {
+      "item_category_id": 1,
+      "item_category": "Indonesian Food",
+      "item_group": [
+        {
+          "item_group_id":1,
+          "item_group_name": "Nasi Timbel",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Nasi Timbel Bakar Isi Sambel Tempe",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 2,
+              "item_name": "Nasi Timbel Bakar Isi Telur Asin",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 3,
+              "item_name": "Nasi Timbel Bakar Isi Tuna",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 4,
+              "item_name": "Nasi Timbel Bakar Isi Ayam Bawang",
+              "item_price": "5000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            }
+          ]
+        },
+        {
+          "item_group_id":2,
+          "item_group_name": "Nasi Goreng",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Nasi Goreng Bakar Isi Sambel Tempe",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 2,
+              "item_name": "Nasi Goreng Bakar Isi Telur Asin",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 3,
+              "item_name": "Nasi Goreng Bakar Isi Tuna",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 4,
+              "item_name": "Nasi Goreng Bakar Isi Ayam Bawang",
+              "item_price": "5000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_category_id": 2,
+      "item_category": "Chinese Food",
+      "item_group": [
+        {
+          "item_group_id":1,
+          "item_group_name": "Capcay",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Capcay",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 2,
+              "item_name": "Fu Yung Hai",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_category_id": 3,
+      "item_category": "Beverages",
+      "item_group": [
+        {
+          "item_group_id":1,
+          "item_group_name": "Coffee and Blended",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Kopi Tubruk",
+              "item_price": "25000",
+              "item_image": ""
+            },
+            {
+              "item_id": 2,
+              "item_name": "Vanilla Frappucinno",
+              "item_price": "25000",
+              "item_image": ""
+            },
+            {
+              "item_id": 3,
+              "item_name": "Cappuchinno Coffee",
+              "item_price": "25000",
+              "item_image": ""
+            },
+            {
+              "item_id": 1,
+              "item_name": "Cafe Mocca",
+              "item_price": "25000",
+              "item_image": ""
+            },
+            {
+              "item_id": 1,
+              "item_name": "Kopi Tubruk",
+              "item_price": "25000",
+              "item_image": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_category_id": 4,
+      "item_category": "Nasi",
+      "item_group": [
+        {
+          "item_group_id":1,
+          "item_group_name": "Nasi Putih",
+          "items": [
+            {
+              "item_id": 1,
+              "item_name": "Nasi Putih kecil",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 2,
+              "item_name": "Nasi Putih Sedang",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            },
+            {
+              "item_id": 3,
+              "item_name": "Nasi Putih Besar",
+              "item_price": "25000",
+              "item_category": "Indonesian Food",
+              "item_group": "Food",
+              "item_image": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
