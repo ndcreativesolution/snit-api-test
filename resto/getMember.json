@@ -8,28 +8,36 @@
       "customer_name": "Aditya Chand",
       "customer_phone": "081703300664",
       "customer_address": "Malang",
-      "customer_identity": "https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png"
+      "customer_identity": "https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png",
+      "price_level_id": 1,
+      "price_type_id": 1
     },
     {
       "customer_id": 2,
       "customer_name": "Agung Sutrisno",
       "customer_phone": "085231271299",
       "customer_address": "Surabaya",
-      "customer_identity": "https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png"
+      "customer_identity": "https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png",
+      "price_level_id": 1,
+      "price_type_id": 1
     },
     {
       "customer_id": 3,
       "customer_name": "A. Zulhan Bakri",
       "customer_phone": "081234567890",
       "customer_address": "Surabaya",
-      "customer_identity": "https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png"
+      "customer_identity": "https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png",
+      "price_level_id": 1,
+      "price_type_id": 1
     },
     {
       "customer_id": 4,
       "customer_name": "Mahrus Ali",
       "customer_phone": "087775333377",
       "customer_address": "Malang",
-      "customer_identity": "https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png"
+      "customer_identity": "https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png",
+      "price_level_id": 1,
+      "price_type_id": 1
     }
   ]
 }
